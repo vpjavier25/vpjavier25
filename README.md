@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Javier Vasquez Pineres</h1>
+<h1 align="center">Hi 👋, I'm Javier Vasquez Pineres</h1> :)
 <h3 align="center">A passionate fullStack developer (with a penchant for back end development) from Colombia</h3>
 
 </hr>
